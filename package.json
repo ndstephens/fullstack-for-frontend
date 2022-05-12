@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Full stack course on FEM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
